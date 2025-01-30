@@ -1,0 +1,21 @@
+body {
+    background-color: green;
+     font-family: 'Arial', sans-serif;
+    }
+.container {
+    background-color: yellow;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.95);
+    padding: 30px;
+    margin-top: 50px;
+    }
+
+h1 {
+    color: darkgreen;
+    margin-bottom: 30px;
+    }
+img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+    }
